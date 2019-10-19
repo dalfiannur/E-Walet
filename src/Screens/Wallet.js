@@ -32,7 +32,6 @@ const Wallet = () => {
 
 const style = StyleSheet.create({
   Container: {
-    backgroundColor: 'linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%)',
     flexGrow: 1,
     flex: 1
   },
